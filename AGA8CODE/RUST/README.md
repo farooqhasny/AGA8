@@ -12,7 +12,7 @@ Use cargo:
 ```shell
 # Build for debugging
 $ cargo build
-# Buld for release
+# Build for release
 $ cargo build --release
 ```
 This will build a number of different types of library files.
